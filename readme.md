@@ -1,4 +1,4 @@
-## Backgound-color-switcher
+# Backgound-color-switcher
  
 [Here is the live Demo of the Project](https://aam-himel.github.io/change-background-color-project/)
 
