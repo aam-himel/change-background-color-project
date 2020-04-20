@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: 'Raleway', sans-serif; 
+    color: rgb(16, 44, 31);
+    text-align: center;
+}
+.title {
+    font-size: 1.4rem;
+    padding-bottom: 10px;
+}
+.text-white {
+    color: white;
+}
+.main-title {
+    font-size: 2.5rem;
+    line-height: 1.8rem;
+    text-align: center;
+    height: 7vh;
+    margin-top: 8%;
+}
+
+.display-text {
+    font-size: 2rem;
+}
+.lead {
+    font-size: 1rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+    line-height: 2rem;
+}
+.container {
+    width: 90%;
+    height: 100vh;
+    margin: 0 auto;
+}
+h4 {
+    margin: 2% auto;
+}
+
+.button {
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    display: inline-block;
+    border-radius: 50%;
+}
+
+span {
+    display: block;
+}
+
+span:hover {
+    transform: translateY(-10px);
+    transition: all .3s;
+    -webkit-box-shadow: 0px 7px 30px -1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 7px 30px -1px rgba(0,0,0,0.75);
+    box-shadow: 0px 7px 20px -3px rgba(51, 22, 22, 0.856);
+}
+
+.color-ball {
+    margin-top: 5%;
+    text-align: center;
+}
+#white {
+    background-color: white;
+}
+#yellow {
+    background-color: yellow;
+}
+#red {
+    background-color: red;
+}
+#blue {
+    background-color: blue;
+}
+#black {
+    background-color: black;
+}
+#green {
+    background-color: green;
+}
+#orange {
+    background-color: orange;
+}
