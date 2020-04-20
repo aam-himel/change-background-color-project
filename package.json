@@ -1,0 +1,23 @@
+{
+  "name": "Backgound-color-switcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aam-himel/change-background-color-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aam-himel/change-background-color-project/issues"
+  },
+  "homepage": "https://github.com/aam-himel/change-background-color-project#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
